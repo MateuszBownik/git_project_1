@@ -1,3 +1,5 @@
 print('Hello World')
 siema 
 cos sie zepsulko
+
+patyk sie polamal i nie dxialas
