@@ -3,3 +3,4 @@ siema
 cos sie zepsulko
 
 patyk sie polamal i nie dxialas
+teraz print cokolweik 
